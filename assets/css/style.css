@@ -1,0 +1,66 @@
+body{
+background-color: rgb(119, 181, 206);
+font-family: 'arial', Arial, Helvetica, sans-serif;
+font-size:15px;
+border-style: groove;
+}
+
+#play{
+background:darkorange;
+    font-size:15px;
+    text-align: center;
+    border-style:outset;
+    padding:10px 15px;
+    cursor:pointer;
+    width:50%;
+    float:center;
+}
+
+#container{
+    width:80%;
+    background-image: url("MaxTessie.jpg");
+    background-color: powderblue;
+    margin: 25px auto;
+    overflow:auto;
+    padding:30px;
+    border-style: groove;
+}
+
+#result h3 {
+    background:darkorange;
+    padding:10px;
+}
+
+header{
+    text-align:center;
+    border-bottom: orange dotted 5px;
+}
+
+header h1 {
+    Font-size:25px;
+    margin:0;
+    padding:0;
+    color:darkorange;
+}
+
+header p {
+    Font-size:13px;
+}
+
+input[type='submit'] {
+    background:darkorange;
+    font-size:20px;
+    text-align: center;
+    border-style:outset;
+    padding:10px 15px;
+    cursor:pointer;
+}
+
+
+footer{
+    border-top: orange dotted 5px;
+    text-align: center;
+    font-family:'arial','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:10px;
+
+}
